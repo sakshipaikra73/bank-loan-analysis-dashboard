@@ -19,9 +19,5 @@ The objective of this project is to transform raw loan data into meaningful visu
 - Branch-wise performance metrics
 - Dynamic filtering for improved data exploration
 
-## File Structure
 
-- `dashboard.pbix` – Power BI dashboard file
-- `schema.sql` – Sample database schema and data
-- `/screenshots` – Visual previews of the dashboard (optional)
 
